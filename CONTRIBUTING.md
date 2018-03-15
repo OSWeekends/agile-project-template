@@ -27,6 +27,10 @@
 
 {{Añadir más detalles si se considera necesario}}
 
+**También utilizamos robots como Travis**
+
+{{Añadir más detalles sobre las tareas... y como afectan al workflow}}
+
 
 ### Reportar un error
 Por favor, crea un [issue]({{LINK}}) donde especifiques lo siguiente:
@@ -44,7 +48,9 @@ Tanto si deseas hablar con nosotros sobre el proyecto como si deseas unirte... l
 2. Una vez dentro de nuestro slack busca el canal `#{{nombre del canal}}` y únete. _Todo el equipo estará allí_
 
 ### Mandar un PR
-_TBD_
+
+Antes de hacer nada... es muy recomendado pasar un tiempo leyendo ["¿Cómo trabajamos aquí?"]({{LINK}})
+{{Definir pasos y detalles relevantes}}
 
 
 ### Código de conducta
