@@ -21,8 +21,17 @@ Queremos reducir la curva de entrada a nuev@s contributors en proyectos Open SOu
 
 ### Equipo
 
- - [{{Nombre}} {{@usuario}}](ghitub.com/integrante1) ({{Leader/contributor}} {{ROL}})
- - ...
+ - [ Theba Gomez (@KoolTheba)](https://github.com/integrante1) (Leader)
+ - [ Jorge Baumann (@baumannzone)](https://github.com/baumannzone) (Contributor)
+ - [ Borja Godoy (@borjagodoy)](https://github.com/borjagodoy) (Contributor)
+ - [ Jacinto J. Cruz Nieto (@jacintoj)](https://github.com/jacintoj) (Contributor)
+ - [ Victoria Solis (@vickysolo)](https://github.com/vickysolo) (Contributor)
+ - [ Ulises Gascón(@ulisesgascon)](https://github.com/ulisesgascon) (Leader)
+ - [ Irene M Morgado (@irnmm)](https://twitter.com/irnmm?lang=es) (Contributor)
+ - [ Chelo Quilón (@lilxelo)](https://github.com/lilxelo) (Contributor)
+ - [ Javier Gallego Martín (@bifuer)](https://github.com/bifuer) (Contributor)
+ - [ Carlos Hernandez (@codingcarlos)](https://github.com/codingcarlos) (Contributor)
+
 
 ##### Necesitamos
 
@@ -40,7 +49,7 @@ Queremos reducir la curva de entrada a nuev@s contributors en proyectos Open SOu
 - **{{Nombre libreria/framework}}**: {{Explicación de su uso}}
 
 ### Como contribuir en el proyecto
-{{Pequeña descripción motivante para enganchar con l@s potenciales contributors}}
+{{Pequeña descripción motivante para enganchar con l@s potenciales Contributors}}
 
 **Más informacion en [CONTRIBUTING.md](CONTRIBUTING.md)**
 
