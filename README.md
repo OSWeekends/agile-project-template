@@ -17,40 +17,44 @@
 
 # Equipo
 
- - [Nombre del integrante1](ghitub.com/integrante1) (Leader)
- - [Nombre del integrante2](ghitub.com/integrante2) (Frontend)
+ - [{{Nombre}} {{@usuario}}](ghitub.com/integrante1) ({{Leader/contributor}} {{ROL}})
+ - ...
 
 ## Necesitamos
 
-Descripción de los perfiles que necesitará el guild. ej.
+{{Descripción de los perfiles necesarios para el proyecto que aun se necesitan}}.
 
- - Frontend Developers.
- - Marketing.
- - Diseño
+ - {{Nombre del role}}: {{Definición de las tareas}}
+
+# Tecnología utilizada
+
+### Dependencias
+- **{{Nombre libreria/framework}}**: {{Explicación de su uso}}
 
 # Como contribuir en el proyecto
-Pequeña descripción de como contribuir y como os organizáis en el Guild.
+{{Pequeña descripción motivante para enganchar con l@s potenciales contributors}}
 
-# Empezando a contribuir.
+**Más informacion en [CONTRIBUTING.md](CONTRIBUTING.md)**
+
+# ¿Cómo usarlo?.
+
+## TL:DR;
+
+{{Definición rápida y sencilla de como descargarse el proyecto y empezar a trabajar con el en local}}
 
 ## Instalación
 
-Cómo hacer que funcione el proyecto en una máquina de forma local, descríbelo de forma detallada y paso por paso.
-
-## ¿Cómo contribuyo al proyecto?
-
-Explica a los contributors cómo funciona vuestro flujo de trabajo. Normalmente en las Guilds será mediante issues y PR, pero no obstante estaría bien una breve explicación de ello
+{{Cómo hacer que funcione el proyecto en una máquina de forma local, descríbelo de forma detallada y paso por paso.}}
 
 
 # Estado del proyecto.
 
-En este apartado debes mostrar en que estado se encuentra tu proyecto y las fases por las que ha pasado. Los estados más comunes serán los siguientes:
+{{Descripción del sprint actual y próxima entrega}}
 
- 1. Formando equipo
- 2. Pensando en que y como lo vamos a hacer
- 3. Desarrollando...
- 4. Release 1
- 5. Desarrollando...
- 6. Release n
- 7. Mantenimiento
- 8. Deprecated.
+
+# Releases anteriores
+
+### [{{Fecha}} {{Nombre release}} {{Version}}]({{Link a la release}})
+- {{Feature añadido o bug resuelto}}. [{{Número del issues}}]({{Link al issue}})
+- ...
+
