@@ -15,46 +15,46 @@
 
 {{Demos un sentido... ¿por que estamos haciendo esto?}}
 
-# Equipo
+### Equipo
 
  - [{{Nombre}} {{@usuario}}](ghitub.com/integrante1) ({{Leader/contributor}} {{ROL}})
  - ...
 
-## Necesitamos
+##### Necesitamos
 
 {{Descripción de los perfiles necesarios para el proyecto que aun se necesitan}}.
 
  - {{Nombre del role}}: {{Definición de las tareas}}
 
-# Tecnología utilizada
+### Tecnología utilizada
 
-### Dependencias
+#### Dependencias
 - **{{Nombre libreria/framework}}**: {{Explicación de su uso}}
 
-# Como contribuir en el proyecto
+### Como contribuir en el proyecto
 {{Pequeña descripción motivante para enganchar con l@s potenciales contributors}}
 
 **Más informacion en [CONTRIBUTING.md](CONTRIBUTING.md)**
 
-# ¿Cómo usarlo?.
+### ¿Cómo usarlo?.
 
-## TL:DR;
+#### TL:DR;
 
 {{Definición rápida y sencilla de como descargarse el proyecto y empezar a trabajar con el en local}}
 
-## Instalación
+#### Instalación
 
 {{Cómo hacer que funcione el proyecto en una máquina de forma local, descríbelo de forma detallada y paso por paso.}}
 
 
-# Estado del proyecto.
+### Estado del proyecto.
 
 {{Descripción del sprint actual y próxima entrega}}
 
 
-# Releases anteriores
+### Releases anteriores
 
-### [{{Fecha}} {{Nombre release}} {{Version}}]({{Link a la release}})
+#### [{{Fecha}} {{Nombre release}} {{Version}}]({{Link a la release}})
 - {{Feature añadido o bug resuelto}}. [{{Número del issues}}]({{Link al issue}})
 - ...
 
