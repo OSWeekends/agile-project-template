@@ -1,4 +1,4 @@
-![header](other/img/OSW-project-GitHub-template-header.jpg)
+![header](other/img/OSW-project-GitHub-template-top.jpg)
 
 
 
