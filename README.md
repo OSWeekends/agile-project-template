@@ -63,14 +63,21 @@ _No tenemos demo disponible por el momento_
 
 #### TL:DR;
 
-1. Copia este repo o descargalo
-2. Configura los elementos de `/.osweekends` a tu gusto
-3. Sigue los pasos de configuración
+1. Sigue los pasos del checklist para arrancar exitosamente tu proyecto dentro de un Guild
 
-#### Instalación
+#### Lista de tareas (checklist) para arrancar un proyecto
 
-{{Cómo hacer que funcione el proyecto en una máquina de forma local, descríbelo de forma detallada y paso por paso.}}
+**Pasos Previos**
+- [ ] Ser miembro de Slack
+- [ ] Ser miembro de un Guild
+- [ ] Ser miembro de la organización Open Source Weekends en Github
+- [ ] Pedir en el canal de Slack #{{GUILDS}} que te creen un proyecto
 
+**Trabajando en tu repo**
+- [ ] [Descargate este proyecto](https://github.com/OSWeekends/agile-project-template/archive/master.zip) como fichero .zip
+- [ ] Añade únicamente la carpeta `.osweekends` a tu nuevo repositorio
+- [ ] Crear un archivo `.gitignore` utilizando algún generador como [gitignore.io](https://www.gitignore.io/)
+- [ ] ....
 
 ### Estado del proyecto.
 
