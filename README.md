@@ -67,13 +67,15 @@ _No tenemos demo disponible por el momento_
 
 #### Lista de tareas (checklist) para arrancar un proyecto
 
-**Pasos Previos**
+**1: ¡Ser independiente!**
+- [ ] ¡Tener ganas de compartir!
 - [ ] Ser miembro de Slack
 - [ ] Ser miembro de un Guild
-- [ ] Ser miembro de la organización Open Source Weekends en Github
-- [ ] Pedir en el canal de Slack #{{GUILDS}} que te creen un proyecto
+- [ ] Ser miembro en Github de la organización Open Source Weekends
+- [ ] Pedir en el canal de Slack #{{GUILDS}} que te creen un repositorio
+- [ ] Confirmar que se ha creado y asignado un grupo de Github al repositorio
 
-**Trabajando en tu repo**
+**2: ¡Arranca la aventura!Trabajando en tu repo**
 - [ ] [Descargate este proyecto](https://github.com/OSWeekends/agile-project-template/archive/master.zip) como fichero .zip
 - [ ] Añade únicamente la carpeta `.osweekends` a tu nuevo repositorio
 - [ ] Crear un archivo `.gitignore` utilizando algún generador como [gitignore.io](https://www.gitignore.io/)
