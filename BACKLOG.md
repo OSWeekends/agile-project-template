@@ -16,6 +16,9 @@ Aquí se definen todas las funcionalidades que componen nuestro producto final.
 
 Aquí se definen todas las funcionaldiades de caracter tecnico que necsitamos desarrollar/integrar en nuestro producto
 
+- **{{Funcionalidad Nombre}}:** {{Descripción Corta}}
+- ...
+
 #### Otros elementos
 
 Aquí se definen todos lso elemntos que no forman parte de del desarrollo del prodcuto tecnológico pero sí de su ciclo de vida como por ejemplo campañas promocionales en redes sociales, branding, etc...
