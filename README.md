@@ -1,23 +1,23 @@
-![travis](https://img.shields.io/travis/{{USER}}/{{REPO}}.svg)
-![issues abiertos](https://img.shields.io/github/issues/{{USER}}/{{REPO}}.svg)
-![issues promedio](https://img.shields.io/issuestats/i/github/{{USER}}/{{REPO}}.svg)
-![PR Abiertos](https://img.shields.io/github/issues-pr/{{USER}}/{{REPO}}.svg)
-![PR Promedio](https://img.shields.io/issuestats/p/github/{{USER}}/{{REPO}}.svg)
-![último commit](https://img.shields.io/github/last-commit/{{USER}}/{{REPO}}/{{RAMA}}.svg)
-![TOP Lang](https://img.shields.io/github/languages/top/{{USER}}/{{REPO}}.svg)
-![total lang](https://img.shields.io/github/languages/count/{{USER}}/{{REPO}}.svg)
+![travis](https://img.shields.io/travis/OSWeekends/agile-project-template.svg)
+![issues abiertos](https://img.shields.io/github/issues/OSWeekends/agile-project-template.svg)
+![issues promedio](https://img.shields.io/issuestats/i/github/OSWeekends/agile-project-template.svg)
+![PR Abiertos](https://img.shields.io/github/issues-pr/OSWeekends/agile-project-template.svg)
+![PR Promedio](https://img.shields.io/issuestats/p/github/OSWeekends/agile-project-template.svg)
+![último commit](https://img.shields.io/github/last-commit/OSWeekends/agile-project-template/master.svg)
+![TOP Lang](https://img.shields.io/github/languages/top/OSWeekends/agile-project-template.svg)
+![total lang](https://img.shields.io/github/languages/count/OSWeekends/agile-project-template.svg)
 
-# {{Nombre del proyecto}}
+# OSWeekends Agile project Template
 
-> {{Descripción del reposiotrio en github}}
+> Un punto de partida para organizar tu próximo proyecto usando nuestra metodología ágil dentro de un Guild.
 
-![Logo de {{proyecto}}]({{LOGO URL}})
+![Logo de OSWGuilds](other/img/OSWGuilds-logo-blanco.svg)
 
-{{En esta sección haremos una breve descripción de lo que va hacer nuestro proyecto}}
+En este repositorio almacenaremos todas las plantillas y recursos para inicializar un proyecto en Github como Guild :-)
 
 **Motivación**
 
-{{Demos un sentido... ¿por que estamos haciendo esto?}}
+Queremos reducir la curva de entrada a nuev@s contributors en proyectos Open SOurce dentro de nuestra organización. Para ello hemos oeganizado plantillas que aterrizan toda nuestra filosofía de una manera facil y directa.
 
 ### Equipo
 
