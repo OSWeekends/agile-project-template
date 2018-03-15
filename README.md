@@ -35,21 +35,20 @@ Queremos reducir la curva de entrada a nuev@s contributors en proyectos Open SOu
 
 ##### Necesitamos
 
-{{Descripción de los perfiles necesarios para el proyecto que aun se necesitan}}.
-
- - {{Nombre del role}}: {{Definición de las tareas}}
+_No tenemos posiciones abiertas por el momento_
 
 ### Demo
 
-{{Información de donde puede verse funcionar... si es posible}}
+_No tenemos demo disponible por el momento_
 
 ### Tecnología utilizada
 
 #### Dependencias
-- **{{Nombre libreria/framework}}**: {{Explicación de su uso}}
+- **Plataforma de Github**: Para facilitar el clonado
+- **Markdown**: Para mejorar la sintaxis y la semantica
 
 ### Como contribuir en el proyecto
-{{Pequeña descripción motivante para enganchar con l@s potenciales Contributors}}
+
 
 **Más informacion en [CONTRIBUTING.md](CONTRIBUTING.md)**
 
@@ -57,7 +56,9 @@ Queremos reducir la curva de entrada a nuev@s contributors en proyectos Open SOu
 
 #### TL:DR;
 
-{{Definición rápida y sencilla de como descargarse el proyecto y empezar a trabajar con el en local}}
+1. Copia este repo o descargalo
+2. Configura los elementos de `/.osweekends` a tu gusto
+3. Sigue los pasos de configuración
 
 #### Instalación
 
@@ -66,15 +67,13 @@ Queremos reducir la curva de entrada a nuev@s contributors en proyectos Open SOu
 
 ### Estado del proyecto.
 
-{{Descripción del sprint actual y próxima entrega}}
+_Desarrollo activo. Entrega prevista para el Sábado 17 de Marzo de 2018_
 
 
 ### Releases anteriores
 
-#### [{{Fecha}} {{Nombre release}} {{Version}}]({{Link a la release}})
-- {{Feature añadido o bug resuelto}}. [{{Número del issues}}]({{Link al issue}})
-- ...
+_Primera release en desarrollo activo_
 
 ### Licencia
 
-{{Descripción de la licencia utilizada}}
+GNU General Public License v3.0
