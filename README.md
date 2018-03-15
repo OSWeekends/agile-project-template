@@ -9,6 +9,8 @@
 
 # {{Nombre del proyecto}}
 
+![Logo de {{proyecto}}]({{LOGO URL}})
+
 {{En esta sección haremos una breve descripción de lo que va hacer nuestro proyecto}}
 
 **Motivación**
@@ -25,6 +27,10 @@
 {{Descripción de los perfiles necesarios para el proyecto que aun se necesitan}}.
 
  - {{Nombre del role}}: {{Definición de las tareas}}
+
+### Demo
+
+{{Información de donde puede verse funcionar... si es posible}}
 
 ### Tecnología utilizada
 
@@ -58,3 +64,6 @@
 - {{Feature añadido o bug resuelto}}. [{{Número del issues}}]({{Link al issue}})
 - ...
 
+### Licencia
+
+{{Descripción de la licencia utilizada}}
