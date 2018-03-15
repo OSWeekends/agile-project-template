@@ -1,3 +1,6 @@
+![header](other/img/OSW-project-GitHub-template-header.jpg)
+
+
 ![travis](https://img.shields.io/travis/OSWeekends/agile-project-template.svg)
 ![issues abiertos](https://img.shields.io/github/issues/OSWeekends/agile-project-template.svg)
 ![issues promedio](https://img.shields.io/issuestats/i/github/OSWeekends/agile-project-template.svg)
@@ -77,3 +80,5 @@ _Primera release en desarrollo activo_
 ### Licencia
 
 GNU General Public License v3.0
+
+![footer](other/img/OSW-project-GitHub-template-footer.jpg)
