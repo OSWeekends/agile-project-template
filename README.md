@@ -36,6 +36,9 @@ Queremos reducir la curva de entrada a nuev@s contributors en proyectos Open SOu
  - [ Javier Gallego Martín (@bifuer)](https://github.com/bifuer) (Contributor)
  - [ Carlos Hernandez (@codingcarlos)](https://github.com/codingcarlos) (Contributor)
 
+##### Agradecimientos
+
+ - [ Ángel Corral Arias (@ancoar)](https://github.com/ancoar)
 
 ##### Necesitamos
 

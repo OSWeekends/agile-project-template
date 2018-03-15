@@ -29,6 +29,12 @@
  - [{{Nombre}} {{@usuario}}](ghitub.com/integrante1) ({{Leader/contributor}} {{ROL}})
  - ...
 
+
+##### Agradecimientos
+
+ - [{{Nombre}} {{@usuario}}](ghitub.com/integrante1) ({{Detalles}})
+ - ...
+
 ##### Necesitamos
 
 {{Descripción de los perfiles necesarios para el proyecto que aun se necesitan}}.
