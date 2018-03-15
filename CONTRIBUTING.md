@@ -12,15 +12,19 @@
 {{Breve descripción de como funcionamos}}
 
 **Testing**
+
 {{Añadir y definir si es relevante}}
 
 **Guía de estilos**
+
 {{Añadir referencia a la documentación si es relevante}}
 
 **Utilizamos Git Flow y esperamos gestionar los cambios con Pull Resquest(PR)**
+
 {{Añadir más detalles si se considera necesario}}
 
-**Tenemos algunas convenciones que... ¡deberías saber!
+**Tenemos algunas convenciones que... ¡deberías saber!**
+
 {{Añadir más detalles si se considera necesario}}
 
 
