@@ -1,6 +1,8 @@
 ![header](img/OSW-project-GitHub-template-header.jpg)
 
 
+
+
 ![travis](https://img.shields.io/travis/{{USER}}/{{REPO}}.svg)
 ![issues abiertos](https://img.shields.io/github/issues/{{USER}}/{{REPO}}.svg)
 ![issues promedio](https://img.shields.io/issuestats/i/github/{{USER}}/{{REPO}}.svg)
@@ -72,6 +74,8 @@
 ### Licencia
 
 {{Descripción de la licencia utilizada}}
+
+
 
 
 ![footer](img/OSW-project-GitHub-template-footer.jpg)
