@@ -1,11 +1,11 @@
 ### Formas de contribuir a {{Nombre del proyecto}}
 
-- [Reportar un error(bug)]()
-- [Iniciar una conversacion sobre el proyecto]()
-- [Subir una aportación de código]()
-- [Ayudar sin programar ni código]()
-- [Proponer una nueva funcionalidad]()
-- [¡Quiero unirme al equipo!]()
+- [Reportar un error(bug)](#reportar-un-error)
+- [Iniciar una conversacion sobre el proyecto](#hablar-con-el-equipo)
+- [Subir una aportación de código](#mandar-un-pr)
+- [Ayudar sin programar ni código](#hablar-con-el-equipo)
+- [Proponer una nueva funcionalidad](#hablar-con-el-equipo)
+- [¡Quiero unirme al equipo!](#hablar-con-el-equipo)
 
 ### ¿Cómo trabajamos aquí?
 
@@ -33,7 +33,7 @@
 
 
 ### Reportar un error
-Por favor, crea un [issue]({{LINK}}) donde especifiques lo siguiente:
+Por favor, crea un [issue](/issues/new) donde especifiques lo siguiente:
 - Resumen del problema (240-500 carácteres)
 - Pasos para reproducirlo (¿Qué tengo que hacer para generar ese error de nuevo?)
 - Comportamiento esperado (¿Qué debería de pasar si ese bug no existiera?)
@@ -49,7 +49,8 @@ Tanto si deseas hablar con nosotros sobre el proyecto como si deseas unirte... l
 
 ### Mandar un PR
 
-Antes de hacer nada... es muy recomendado pasar un tiempo leyendo ["¿Cómo trabajamos aquí?"]({{LINK}})
+Antes de hacer nada... es muy recomendado pasar un tiempo leyendo ["¿Cómo trabajamos aquí?"](#c%C3%B3mo-trabajamos-aqu%C3%AD)
+
 {{Definir pasos y detalles relevantes}}
 
 
