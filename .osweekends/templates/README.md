@@ -1,4 +1,4 @@
-![header](img/OSW-project-GitHub-template-header.jpg)
+![header](../img/OSW-project-GitHub-template-header.jpg)
 
 
 
@@ -84,4 +84,4 @@
 
 
 
-![footer](img/OSW-project-GitHub-template-footer.jpg)
+![footer](../img/OSW-project-GitHub-template-footer.jpg)
