@@ -9,6 +9,8 @@
 
 # {{Nombre del proyecto}}
 
+> {{Descripción del reposiotrio en github}}
+
 ![Logo de {{proyecto}}]({{LOGO URL}})
 
 {{En esta sección haremos una breve descripción de lo que va hacer nuestro proyecto}}
