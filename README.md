@@ -65,21 +65,38 @@ _No tenemos demo disponible por el momento_
 
 1. Sigue los pasos del checklist para arrancar exitosamente tu proyecto dentro de un Guild
 
-#### Lista de tareas (checklist) para arrancar un proyecto
+#### Lista de tareas (checklist) para arrancar un proyecto y cerrar tu primera release (Sprint 1 "Fast MVP")
 
 **1: ¡Ser independiente!**
 - [ ] ¡Tener ganas de compartir!
-- [ ] Ser miembro de Slack
-- [ ] Ser miembro de un Guild
-- [ ] Ser miembro en Github de la organización Open Source Weekends
-- [ ] Pedir en el canal de Slack #{{GUILDS}} que te creen un repositorio
-- [ ] Confirmar que se ha creado y asignado un grupo de Github al repositorio
+- [ ] Ser miembro de [Slack](https://slack.osweekends.com)
+- [ ] Ser miembro de un [Guild](https://guilds.osweekends.com) (equipo, canal de slack del proyecto, etc...)
+- [ ] Ser miembro [en Github de la organización Open Source Weekends](https://github.com/OSWeekends/Organizacion/issues/1)
+- [ ] Evaluar tu proyecto y confirmar que es ético, moral y sin animo de lucro
+- [ ] Pedir en el canal de Slack `#01-oswguilds` que te creen un repositorio
+- [ ] Confirmar que se ha creado y asignado un grupo de usuarios de Github (tu guild) al repositorio
 
 **2: ¡Arranca la aventura!Trabajando en tu repo**
 - [ ] [Descargate este proyecto](https://github.com/OSWeekends/agile-project-template/archive/master.zip) como fichero .zip
 - [ ] Añade únicamente la carpeta `.osweekends` a tu nuevo repositorio
 - [ ] Crear un archivo `.gitignore` utilizando algún generador como [gitignore.io](https://www.gitignore.io/)
-- [ ] ....
+- [ ] Actualizar el nombre del repo, si hace falta
+- [ ] Incluir una descripción corta y URL del proyecto en el repositorio de Github
+- [ ] Añadir una [licencia Open Source](https://help.github.com/articles/licensing-a-repository/) válida
+- [ ] Has adaptado los ficheros (Readme, COC, Contributing, etc...) de `.osweekends/templates` y los has llevado a la raiz de tu proyecto
+- [ ] Has seguido los pasos para incluir [Travis](https://travis-ci.org/) en tu repositorio con los plugins correspondientes...
+- [ ] Has adaptado si fuera necesario `.osweekends/.github/` para tener templates de PR e issues en el root del repositorio como `.github`
+- [ ] La cola de issues está actualizada, organizada y etiquetada.
+- [ ] Has implementado Git Flow en tu proyecto
+- [ ] El código está comentado correctamente, y documentado
+- [ ] No hay material sensible en la revisión histórica, issues, o pull requests. (Ejemplo: contraseñas, tokens...)
+- [ ] Has acutalizado el `backlog.md` y creado el milestone con los issues correspondientes
+
+**3: ¡Hacer del mundo un lugar mejor!**
+
+- [ ] Has terminado un sprint con éxito
+- [ ] Has [cerrado una release](https://help.github.com/articles/creating-releases/) con el estado actual de tu rama `master`
+- [ ] Has subido el proyecto a producción usando github pages o la infraestrcutura de OSW Goku (canal `#proyecto-goku-cloud` en slack)
 
 ### Estado del proyecto.
 
