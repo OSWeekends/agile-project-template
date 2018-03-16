@@ -5,7 +5,7 @@ Cualquier Pull Request creada sin un issue de referencia será rechazada automá
 :clipboard: Esta es la lista de cosas que debe cumplir tu Pull Request antes de ser enviada:
 - [ ] He leido el [contributing.md](../CONTRIBUTING.md)
 - [ ] He leido el [Código de conducta](../CODE_OF_CONDUCT.md)
-- [ ] Seguir la guia de estilos del proyecto
+- [ ] Seguir la guía de estilos del proyecto
 - [ ] Los commits de esta Pull Request (PR) van [enlazados con los issues](https://help.github.com/articles/closing-issues-using-keywords/)
 - [ ] {{Otro punto}}
 - ...
