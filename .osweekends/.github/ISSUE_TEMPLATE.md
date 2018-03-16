@@ -1,8 +1,7 @@
-### Paso 1: ¿Estas en el lugar correcto?
+### Paso 1: ¿Estás en el lugar correcto?
 
   * Esta plantilla solo sirve para reportar bugs, cualquier otra acción será rechazada.
-  * Si deseas Iniciar una conversacion sobre el proyecto, subir una aportación de código, ayudar sin programar ni código, proponer una nueva funcionalidad
-o unirte al equipo (guild), etc.... Puedes seguir [esta guía](../CONTRIBUTING.md)
+  * Si deseas Iniciar una conversacion sobre el proyecto, subir una aportación de código, ayudar sin programar ni código, proponer una nueva funcionalidad o unirte al equipo (guild), etc.... Puedes seguir [esta guía](../CONTRIBUTING.md)
 
 ### Paso 2: Describe tu entorno
 
