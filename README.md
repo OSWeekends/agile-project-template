@@ -21,7 +21,7 @@ En este repositorio almacenaremos todas las plantillas y recursos para inicializ
 
 **Motivación**
 
-Queremos reducir la curva de entrada a nuev@s contributors en proyectos Open SOurce dentro de nuestra organización. Para ello hemos oeganizado plantillas que aterrizan toda nuestra filosofía de una manera facil y directa.
+Queremos reducir la curva de entrada a nuev@s contributors en proyectos Open SOurce dentro de nuestra organización. Para ello hemos organizado plantillas que aterrizan toda nuestra filosofía de una manera fácil y directa.
 
 ### Equipo
 
@@ -54,7 +54,7 @@ _No tenemos demo disponible por el momento_
 - **Plataforma de Github**: Para facilitar el clonado
 - **Markdown**: Para mejorar la sintaxis y la semantica
 
-### Como contribuir en el proyecto
+### Cómo contribuir en el proyecto
 
 
 **Más informacion en [CONTRIBUTING.md](CONTRIBUTING.md)**
@@ -72,9 +72,9 @@ _No tenemos demo disponible por el momento_
 - [ ] Ser miembro de [Slack](https://slack.osweekends.com)
 - [ ] Ser miembro de un [Guild](https://guilds.osweekends.com) (equipo, canal de slack del proyecto, etc...)
 - [ ] Ser miembro [en Github de la organización Open Source Weekends](https://github.com/OSWeekends/Organizacion/issues/1)
-- [ ] Evaluar tu proyecto y confirmar que es ético, moral y sin animo de lucro
+- [ ] Evaluar tu proyecto y confirmar que es ético, moral y sin ánimo de lucro
 - [ ] Pedir en el canal de Slack `#01-oswguilds` que te creen un repositorio
-- [ ] Confirmar que se ha creado y asignado un grupo de usuarios de Github (tu guild) al repositorio
+- [ ] Confirmar que se ha creado y asignado un grupo de usuarios de Github (tu Guild) al repositorio
 
 **2: ¡Arranca la aventura!Trabajando en tu repo**
 - [ ] [Descargate este proyecto](https://github.com/OSWeekends/agile-project-template/archive/master.zip) como fichero .zip
