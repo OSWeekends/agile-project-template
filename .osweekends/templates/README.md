@@ -22,7 +22,7 @@
 
 **Motivación**
 
-{{Demos un sentido... ¿por que estamos haciendo esto?}}
+{{Demos un sentido... ¿por qué estamos haciendo esto?}}
 
 ### Equipo
 
@@ -37,20 +37,20 @@
 
 ##### Necesitamos
 
-{{Descripción de los perfiles necesarios para el proyecto que aun se necesitan}}.
+{{Descripción de los perfiles necesarios para el proyecto que aún se necesitan}}.
 
  - {{Nombre del role}}: {{Definición de las tareas}}
 
 ### Demo
 
-{{Información de donde puede verse funcionar... si es posible}}
+{{Información de dónde puede verse funcionar... si es posible}}
 
 ### Tecnología utilizada
 
 #### Dependencias
 - **{{Nombre libreria/framework}}**: {{Explicación de su uso}}
 
-### Como contribuir en el proyecto
+### Cómo contribuir en el proyecto
 {{Pequeña descripción motivante para enganchar con l@s potenciales contributors}}
 
 **Más informacion en [CONTRIBUTING.md](CONTRIBUTING.md)**
